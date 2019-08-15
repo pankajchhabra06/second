@@ -1,0 +1,34 @@
+*{text-decoration:none;list-style:none;}
+.header
+        {
+          height:100px;
+          background:red;
+        }
+.header li
+        {
+          display:inline-block;
+          margin-left:2px;
+          margin-top:2px;
+          padding-top:5px;
+          padding-bottom:5px;
+          padding-left:10px;
+          padding-right:10px;
+          background:orange;
+        }
+.left-bar
+        {
+          float:left;
+          margin-left:170px;
+        }
+.right-bar
+           {
+            float:right;
+            margin-right:20px;
+           }
+ .slider
+          {
+           background:teal;
+           height:250px;
+           border-bottom:2px red solid;
+           border-top:2px white solid;
+          }
